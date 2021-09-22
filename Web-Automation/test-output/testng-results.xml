@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="1" total="7" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="56556" started-at="2021-09-22T10:01:11 PDT" finished-at="2021-09-22T10:02:07 PDT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="56556" started-at="2021-09-22T10:01:11 PDT" finished-at="2021-09-22T10:02:07 PDT">
+      <class name="com.sgtesting.dataproviderdemo.LoginLogoutDemo">
+        <test-method status="PASS" signature="launchBrowser()[pri:1, instance:com.sgtesting.dataproviderdemo.LoginLogoutDemo@1563da5]" name="launchBrowser" duration-ms="9646" started-at="2021-09-22T10:01:11 PDT" finished-at="2021-09-22T10:01:21 PDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="navigate()[pri:2, instance:com.sgtesting.dataproviderdemo.LoginLogoutDemo@1563da5]" name="navigate" duration-ms="12516" started-at="2021-09-22T10:01:21 PDT" finished-at="2021-09-22T10:01:33 PDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigate -->
+        <test-method status="PASS" signature="login(java.lang.String,java.lang.String)[pri:3, instance:com.sgtesting.dataproviderdemo.LoginLogoutDemo@1563da5]" name="login" duration-ms="15027" started-at="2021-09-22T10:01:33 PDT" data-provider="getLoginData" finished-at="2021-09-22T10:01:48 PDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[admin]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[manager]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="login(java.lang.String,java.lang.String)[pri:3, instance:com.sgtesting.dataproviderdemo.LoginLogoutDemo@1563da5]" name="login" duration-ms="9220" started-at="2021-09-22T10:01:48 PDT" data-provider="getLoginData" finished-at="2021-09-22T10:01:57 PDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[admin]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[manager]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="login(java.lang.String,java.lang.String)[pri:3, instance:com.sgtesting.dataproviderdemo.LoginLogoutDemo@1563da5]" name="login" duration-ms="9006" started-at="2021-09-22T10:01:57 PDT" data-provider="getLoginData" finished-at="2021-09-22T10:02:06 PDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[admin]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[manager]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="closeApplication()[pri:4, instance:com.sgtesting.dataproviderdemo.LoginLogoutDemo@1563da5]" name="closeApplication" duration-ms="875" started-at="2021-09-22T10:02:06 PDT" finished-at="2021-09-22T10:02:07 PDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApplication -->
+      </class> <!-- com.sgtesting.dataproviderdemo.LoginLogoutDemo -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

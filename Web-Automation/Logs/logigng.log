@@ -1,0 +1,96 @@
+	2021-09-07 11:15:12 INFO  Loop Output:9 - For Loop output starts here ...
+2021-09-07 11:15:12 INFO  Loop Output:14 - The Even Number :20
+2021-09-07 11:15:12 INFO  Loop Output:14 - The Even Number :22
+2021-09-07 11:15:12 INFO  Loop Output:14 - The Even Number :24
+2021-09-07 11:15:12 INFO  Loop Output:14 - The Even Number :26
+2021-09-07 11:15:12 INFO  Loop Output:14 - The Even Number :28
+2021-09-07 11:15:12 INFO  Loop Output:14 - The Even Number :30
+2021-09-07 11:15:12 INFO  Loop Output:14 - The Even Number :32
+2021-09-07 11:15:12 INFO  Loop Output:14 - The Even Number :34
+2021-09-07 11:15:12 INFO  Loop Output:14 - The Even Number :36
+2021-09-07 11:15:12 INFO  Loop Output:14 - The Even Number :38
+2021-09-07 11:15:12 INFO  Loop Output:14 - The Even Number :40
+2021-09-07 11:15:12 INFO  Loop Output:17 - For Loop output ends here ...
+2021-09-16 22:09:20 INFO  Loop Output:8 - For Loop Output Starts here
+2021-09-16 22:09:20 INFO  Loop Output:13 - The Even Number:20
+2021-09-16 22:09:20 INFO  Loop Output:13 - The Even Number:22
+2021-09-16 22:09:20 INFO  Loop Output:13 - The Even Number:24
+2021-09-16 22:09:20 INFO  Loop Output:13 - The Even Number:26
+2021-09-16 22:09:20 INFO  Loop Output:13 - The Even Number:28
+2021-09-16 22:09:20 INFO  Loop Output:13 - The Even Number:30
+2021-09-16 22:09:20 INFO  Loop Output:13 - The Even Number:32
+2021-09-16 22:09:20 INFO  Loop Output:13 - The Even Number:34
+2021-09-16 22:09:20 INFO  Loop Output:13 - The Even Number:36
+2021-09-16 22:09:20 INFO  Loop Output:13 - The Even Number:38
+2021-09-16 22:09:20 INFO  Loop Output:13 - The Even Number:40
+2021-09-16 22:09:20 INFO  Loop Output:16 - For Loop output ends here
+2021-09-16 22:11:55 INFO  Loop Output:8 - For Loop Output Starts here
+2021-09-16 22:11:55 INFO  Loop Output:13 - The Even Number:20
+2021-09-16 22:11:55 INFO  Loop Output:13 - The Even Number:22
+2021-09-16 22:11:55 INFO  Loop Output:13 - The Even Number:24
+2021-09-16 22:11:55 INFO  Loop Output:13 - The Even Number:26
+2021-09-16 22:11:55 INFO  Loop Output:13 - The Even Number:28
+2021-09-16 22:11:55 INFO  Loop Output:13 - The Even Number:30
+2021-09-16 22:11:55 INFO  Loop Output:13 - The Even Number:32
+2021-09-16 22:11:55 INFO  Loop Output:13 - The Even Number:34
+2021-09-16 22:11:55 INFO  Loop Output:13 - The Even Number:36
+2021-09-16 22:11:55 INFO  Loop Output:13 - The Even Number:38
+2021-09-16 22:11:55 INFO  Loop Output:13 - The Even Number:40
+2021-09-16 22:11:55 INFO  Loop Output:16 - For Loop output ends here
+2021-09-17 11:25:23 INFO  Loop Output:18 - AssignmentTestng2
+2021-09-17 11:27:03 INFO  Loop Output:19 - AssignmentTestng2
+2021-09-17 11:27:40 INFO  Loop Output:19 - AssignmentTestng2
+2021-09-17 11:28:17 INFO  Loop Output:19 - AssignmentTestng2
+2021-09-17 11:31:12 INFO  Loop Output:19 - AssignmentTestng2
+2021-09-17 11:31:29 INFO  Loop Output:19 - AssignmentTestng2
+2021-09-17 11:33:42 INFO  Loop Output:19 - AssignmentTestng2
+2021-09-17 11:33:55 INFO  Loop Output:23 - launchBrowser() method executed
+2021-09-17 11:34:14 INFO  Loop Output:35 - navigate() method executed
+2021-09-17 11:34:21 INFO  Loop Output:49 - login() method executed
+2021-09-17 11:35:34 INFO  Loop Output:19 - AssignmentTestng2
+2021-09-17 11:35:42 INFO  Loop Output:23 - launchBrowser() method executed
+2021-09-17 11:35:51 INFO  Loop Output:35 - navigate() method executed
+2021-09-17 11:35:56 INFO  Loop Output:49 - login() method executed
+2021-09-17 11:36:25 INFO  Loop Output:92 - createUser() method executed
+2021-09-17 11:36:40 INFO  Loop Output:116 - modifyUser() method executed
+2021-09-17 11:36:50 INFO  Loop Output:135 - deleteUser() method executed
+2021-09-17 11:36:52 INFO  Loop Output:149 - logout() method executed
+2021-09-17 11:37:19 INFO  Loop Output:19 - AssignmentTestng2
+2021-09-17 11:37:28 INFO  Loop Output:23 - launchBrowser() method executed
+2021-09-17 11:37:38 INFO  Loop Output:35 - navigate() method executed
+2021-09-17 11:37:43 INFO  Loop Output:49 - login() method executed
+2021-09-17 11:38:12 INFO  Loop Output:92 - createUser() method executed
+2021-09-17 11:38:27 INFO  Loop Output:116 - modifyUser() method executed
+2021-09-17 11:38:36 INFO  Loop Output:135 - deleteUser() method executed
+2021-09-17 11:38:42 INFO  Loop Output:149 - logout() method executed
+2021-09-17 11:46:04 INFO  Loop Output:18 - AssignmentTestng2
+2021-09-17 11:46:10 INFO  Loop Output:21 - launchBrowser() method executed
+2021-09-17 11:46:23 INFO  Loop Output:33 - navigate() method executed
+2021-09-17 11:46:28 INFO  Loop Output:48 - login() method executed
+2021-09-17 11:46:47 INFO  Loop Output:85 - createUser() method executed
+2021-09-18 23:27:02 INFO  Loop Output:19 - AssignmentTestng2
+2021-09-18 23:27:13 INFO  Loop Output:23 - launchBrowser() method executed
+2021-09-18 23:27:21 INFO  Loop Output:35 - navigate() method executed
+2021-09-18 23:27:28 INFO  Loop Output:49 - login() method executed
+2021-09-18 23:28:02 INFO  Loop Output:92 - createUser() method executed
+2021-09-18 23:28:17 INFO  Loop Output:116 - modifyUser() method executed
+2021-09-18 23:28:26 INFO  Loop Output:135 - deleteUser() method executed
+2021-09-18 23:28:29 INFO  Loop Output:149 - logout() method executed
+2021-09-18 23:28:30 INFO  Loop Output:18 - AssignmentTestng2
+2021-09-18 23:28:36 INFO  Loop Output:21 - launchBrowser() method executed
+2021-09-18 23:28:45 INFO  Loop Output:33 - navigate() method executed
+2021-09-18 23:28:50 INFO  Loop Output:48 - login() method executed
+2021-09-18 23:29:06 INFO  Loop Output:85 - createUser() method executed
+2021-09-19 05:34:04 INFO  Loop Output:19 - AssignmentTestng2
+2021-09-19 05:34:11 INFO  Loop Output:23 - launchBrowser() method executed
+2021-09-19 05:34:18 INFO  Loop Output:35 - navigate() method executed
+2021-09-19 05:34:24 INFO  Loop Output:49 - login() method executed
+2021-09-19 05:34:50 INFO  Loop Output:92 - createUser() method executed
+2021-09-19 05:35:05 INFO  Loop Output:116 - modifyUser() method executed
+2021-09-19 05:35:14 INFO  Loop Output:135 - deleteUser() method executed
+2021-09-19 05:35:16 INFO  Loop Output:149 - logout() method executed
+2021-09-19 05:35:17 INFO  Loop Output:18 - AssignmentTestng2
+2021-09-19 05:35:21 INFO  Loop Output:21 - launchBrowser() method executed
+2021-09-19 05:35:29 INFO  Loop Output:33 - navigate() method executed
+2021-09-19 05:35:35 INFO  Loop Output:48 - login() method executed
+2021-09-19 05:35:50 INFO  Loop Output:85 - createUser() method executed
